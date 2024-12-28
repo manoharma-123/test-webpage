@@ -1,0 +1,26 @@
+<html> 
+       <head>  
+               <title></title>
+ 
+
+      </head>
+      <body>
+             <h1 align="center"> My Webpage </h1>
+             <hr>
+             <h2>About Me</h2>
+             <p> Hello! my name is <b> john Doe </b>.I am learning HTML to build awesome websites.I love to explore new technologies and solve problems.Sometimes, I <u>underline</u> important things to highlight them.
+             <h2>Fun Fact</h2> 
+             <p> Did you know? The tallest mountain on earth is<sup> mount everest</sup>, and the lowest point is the<sub> Dead sea</sub>.
+             <h2>My Skill</h2>
+             <p>
+
+      </body
+
+
+
+
+
+
+
+</html>
+              
