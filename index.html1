@@ -12,7 +12,17 @@
              <h2>Fun Fact</h2> 
              <p> Did you know? The tallest mountain on earth is<sup> mount everest</sup>, and the lowest point is the<sub> Dead sea</sub>.
              <h2>My Skill</h2>
-             <a href="https://youtube.com"></a>
+             <ul>
+                  <li>web devlopment</li>
+                  <li>Graphic design</li>
+                  <li>Problem Solving</li>
+             </ul>
+             <h2>My Favourite Things</h2>
+             <p>1.Reading<br>2.Traveling<br>3.Cooking</p>
+             <h2>My Favourite Picture</h2>
+             <img src="https://th.bing.com/th/id/OIP.3ylgyHcadmEc4YHN-xJq2AHaF7?rs=1&pid=ImgDetMain"alt="">
+             <h2> Favourite Quote</h2>
+             
 
       </body
 
